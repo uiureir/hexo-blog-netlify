@@ -46,7 +46,7 @@ head:
 navbar: 
 
   # 左侧名称显示
-  sitename: Demo
+  sitename: Uiureir' blog
   
   # 右侧站内导航链接
   menu: 
@@ -69,7 +69,7 @@ navbar:
 cover: 
 
   # 显示在最上方 cover 处的站点名称
-  sitename: Demo
+  sitename: Uiureir's blog
 
   # 若 avatar 配置不为空，则优先使用 avatar 覆盖 sitename
   avatar: 
@@ -139,8 +139,8 @@ meta:
   
   # 默认文章作者（可在front-matter中覆盖）
   author:
-    name: ChrAlpha
-    url: https://chralpha.com
+    name: Uiureir
+    url: https://uiureir.netlify.app
   
   # 文章创建日期
   date:
@@ -328,7 +328,7 @@ footer:
   # 例如：将此设为 `2018`，那么页脚就会显示 '© 2018 - 2020'（2020 为最后一次页面生成时间）
   # 如果将此项留空，则单独显示 '© 2020'（2020 为最后一次页面生成时间）
   # 如果你不想显示任何内容，请将此项设为 `false`
-  copyright_since: 
+  copyright_since: 2022
 
   # 网站计数
   statistics: 

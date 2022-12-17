@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 演示站点
+title: Uiureir' blog
 subtitle: ''
-description: '这是一个演示站点'
+description: '卖柠檬雪糕的鱼的博客'
 keywords:
 author: 
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://yoursite.com
+url: https://uiureir.netlify.app
 #permalink: :year/:month/:day/:title/
 permalink: post/:abbrlink/
 permalink_defaults:
