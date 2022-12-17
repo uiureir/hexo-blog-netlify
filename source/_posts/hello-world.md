@@ -1,38 +1,18 @@
 ---
+index_img: /images/uploads/IMG_5199_1671265026.jpeg
 title: Hello World
+date: 2022-12-17 17:16:48
+updated: 2022-12-17 17:16:49
+comments: false
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+用光黄票
 
-## Quick Start
+出了个森蚺
 
-### Create a new post
+挡一打一
 
-``` bash
-$ hexo new "My New Post"
-```
+只有阻挡时才能回技力
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+三技能专三也要45技力
 
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+喜提仓管+1
