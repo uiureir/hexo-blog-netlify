@@ -1,10 +1,12 @@
 ---
-index_img: /images/uploads/IMG_5199_1671265026.jpeg
+index_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/AECE6A6D-3526-4738-928A-5C69D0F3F585.jpeg
 title: Hello World
 date: 2022-12-17 17:16:48
 updated: 2022-12-17 17:16:49
 comments: false
 ---
+![](https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/AECE6A6D-3526-4738-928A-5C69D0F3F585.jpeg)
+
 用光黄票
 
 出了个森蚺
