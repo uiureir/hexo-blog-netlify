@@ -3,31 +3,31 @@ navbar:
   ground_glass:
     enable: true
 index:
-  banner_img: /images/uploads/background.webp
+  banner_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/7EA12C00-1BB9-4C16-8F65-5A6371B63F09.webp
   banner_img_height: 100
   slogan:
     text: 卖柠檬雪糕的鱼的博客
 post:
-  banner_img: /images/uploads/IMG_5195_1671265057.jpeg
+  banner_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/73BB9E4B-4CD5-48A1-9C32-81E7844573EC.jpeg
   banner_img_height: 85
   default_index_img: /images/uploads/wallhaven-g8wvm7.webp
 archive:
-  banner_img: /images/uploads/IMG_5154_1671264885.jpeg
+  banner_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/6B0A12AB-54D8-427A-B98E-8F64207B8C3D.jpeg
   banner_img_height: 80
   subtitle: null
 category:
-  banner_img: /images/uploads/IMG_5168_1671264975.jpeg
+  banner_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/A84CE283-6EDF-41A8-B75F-65F94D4C8DE9.jpeg
   banner_img_height: 80
   subtitle: null
 tag:
-  banner_img: /images/uploads/IMG_5199_1671265026.jpeg
+  banner_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/50FCEB46-E146-4F46-A840-45082BC73561.jpeg
   banner_img_height: 80
   subtitle: null
 about:
-  banner_img: /images/uploads/IMG_5192_1671265087.jpeg
+  banner_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/IMG_5192_1671265087.JPEG
   banner_img_height: 80
   subtitle: null
-  avatar: /images/uploads/IMG_5193.jpeg
+  avatar: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/CCCCC56F-9582-44BC-88B6-BB89D32151E5.jpeg
   name: Uiureir
   intro: Uiureir's blog
 links:
