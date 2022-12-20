@@ -10,13 +10,13 @@ index:
 post:
   banner_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/73BB9E4B-4CD5-48A1-9C32-81E7844573EC.jpeg
   banner_img_height: 85
-  default_index_img: /images/uploads/wallhaven-g8wvm7.webp
+  default_index_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/A84CE283-6EDF-41A8-B75F-65F94D4C8DE9.jpeg
 archive:
   banner_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/6B0A12AB-54D8-427A-B98E-8F64207B8C3D.jpeg
   banner_img_height: 80
   subtitle: null
 category:
-  banner_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/A84CE283-6EDF-41A8-B75F-65F94D4C8DE9.jpeg
+  banner_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/mmexport1602581319886.webp
   banner_img_height: 80
   subtitle: null
 tag:
