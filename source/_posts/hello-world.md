@@ -5,7 +5,7 @@ date: 2022-12-17 17:16:48
 updated: 2022-12-17 17:16:49
 comments: false
 ---
-![](https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/73BB9E4B-4CD5-48A1-9C32-81E7844573EC.jpeg)
+![](https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/AECE6A6D-3526-4738-928A-5C69D0F3F585.jpeg)
 
 用光黄票
 
