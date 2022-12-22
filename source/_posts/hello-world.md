@@ -1,8 +1,14 @@
 ---
 index_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/265DFC99-0914-4F06-AEE1-0A41178C4316.jpeg
-title: Hello World
+title: 第一篇post
 date: 2022-12-17 17:16:48
-updated: 2022-12-17 17:16:49
+updated: 2022-12-22 20:45:31
+tags:
+  - 明日方舟
+categories:
+  - 游戏
+keywords:
+  - 森蚺
 comments: false
 ---
 ![](https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/post/86A102E8-8871-4F8A-AB82-8F531FAB356C.jpeg)
