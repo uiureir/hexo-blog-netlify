@@ -1,11 +1,11 @@
 ---
-index_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/AECE6A6D-3526-4738-928A-5C69D0F3F585.jpeg>>>>>>> main
+index_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/265DFC99-0914-4F06-AEE1-0A41178C4316.jpeg
 title: Hello World
 date: 2022-12-17 17:16:48
 updated: 2022-12-17 17:16:49
 comments: false
 ---
-![](https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/AECE6A6D-3526-4738-928A-5C69D0F3F585.jpeg)
+![](https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/post/86A102E8-8871-4F8A-AB82-8F531FAB356C.jpeg)
 
 用光黄票
 
