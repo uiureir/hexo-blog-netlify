@@ -30,3 +30,7 @@ Sigmoid函数的特性与优缺点：
 * 明确的预测，即非常接近1或0。
 * 函数输出不是以0为中心的，这会降低权重更新的效率
 * Sigmoid函数执行指数运算，计算机运行得较慢。
+
+Sigmoid函数及其导数的图像：
+
+![Sigmoid](https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/post/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/30EB0B41-AB32-44A6-B91E-860B3997D16A.jpeg)
