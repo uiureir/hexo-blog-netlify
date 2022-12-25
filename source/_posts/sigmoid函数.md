@@ -1,8 +1,8 @@
 ---
 index_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/0FEE9279-5461-4521-86A9-70696B2065E7.jpeg
 title: Sigmoid函数
-date: 2022-12-25 22:12:55
-updated: 2022-12-25 22:12:56
+date: 2022-12-25 23:09:04
+updated: 2022-12-25 23:09:05
 tags:
   - 数学
 categories:
